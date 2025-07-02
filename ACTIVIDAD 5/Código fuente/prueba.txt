@@ -1,0 +1,10 @@
+Este es un archivo txt de prueba
+Creado para comprobar el funcionamiento del código
+El programa debería de leer el archivo 
+Linea 4
+Linea 5
+400
+406
+412
+418
+427 
